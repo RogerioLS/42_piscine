@@ -1,0 +1,2 @@
+# find procura | -type f -> especifica tip  | name nome | print exibi | delete deleta | -o ou | 
+find . -name "*~" -type f -print -delete -o -name "#*#" -type f -print -delete

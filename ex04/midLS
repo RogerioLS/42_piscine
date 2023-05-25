@@ -1,0 +1,4 @@
+# -m largura de preenchimento com uma lista de entradas separadas por vírgula
+# -t classifica por hora de modificação, mais recente primeiro
+# -p anexar / indicador aos diretórios
+ls -mtp
