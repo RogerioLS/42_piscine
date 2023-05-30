@@ -6,4 +6,5 @@
 # EXPLICACAO:
 # NR -> numero total de registro de entrada visto até agora.
 # aws -> para poder printar as saidas;
+#!/bin/bash
 ls -l | awk 'NR % 2==1'
