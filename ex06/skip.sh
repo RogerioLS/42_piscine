@@ -4,7 +4,7 @@
 # ------ comando para execucao ---------------------------------
 # ------ não tem, é o próprio exercicio ------------------------
 # EXPLICACAO:
-# NR -> numero total de registro de entrada visto até agora.
+# NR -> Número de linhas já processadas considerando todos os arquivos de entrada.
 # aws -> para poder printar as saidas;
 #!/bin/bash
 ls -l | awk 'NR % 2==1'
