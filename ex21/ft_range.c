@@ -6,9 +6,11 @@
 /*   By: roglopes <roglopes@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/16 18:59:36 by roglopes          #+#    #+#             */
-/*   Updated: 2023/07/22 18:35:06 by roglopes         ###   ########.fr       */
+/*   Updated: 2023/07/22 18:43:36 by roglopes         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include <stdlib.h>
 
 int	*ft_range(int min, int max)
 {
