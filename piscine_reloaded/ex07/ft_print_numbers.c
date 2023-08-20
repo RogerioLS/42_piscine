@@ -6,7 +6,7 @@
 /*   By: roglopes <roglopes@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/15 22:24:24 by roglopes          #+#    #+#             */
-/*   Updated: 2023/07/15 22:51:17 by roglopes         ###   ########.fr       */
+/*   Updated: 2023/08/20 18:51:05 by roglopes         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,6 +28,7 @@ void	ft_print_numbers(void)
 		numbers++;
 	}
 }
+
 
 /* int	main(void)
 {
